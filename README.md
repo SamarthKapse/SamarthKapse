@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samarth Kapase</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on **e Healthcare Appointment Optimization System**
+- 🔭 I’m currently working on ** Healthcare Appointment Optimization System**
 
 - 🌱 I’m currently learning **Java Full Stack Development**
 
