@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ** Healthcare Appointment Optimization System**
 
-- 🌱 I’m currently learning **Java Full Stack Development**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 💬 Ask me about **As an MCA student with a solid foundation in Python, Java , and C, I’m passionate about developing software solutions that make a real difference. I’ve worked on projects like a voice-activated AI assistant and a grocery management system, using technologies like Django, MySQL, MongoDB, and JavaScript. I thrive in collaborative settings and am always eager to take on new challenges. Let’s connect and see how we can work together to create impactful solutions!**
 
