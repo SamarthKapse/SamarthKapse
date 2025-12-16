@@ -5,7 +5,8 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **As an MCA student with a solid foundation in Python, JavaScript , and C, I’m passionate about developing software solutions that make a real difference. I’ve worked on projects like a voice-activated AI assistant and a grocery management system, using technologies like Django, MySQL, MongoDB, and JavaScript. I thrive in collaborative settings and am always eager to take on new challenges. Let’s connect and see how we can work together to create impactful solutions!**
+- 💬 Ask me about
+As an MCA student with a strong foundation in JavaScript and MERN Stack development, I’m passionate about learning and building software solutions that create real impact. I work with technologies like MongoDB, Express.js, React, Node.js, MySQL, and JavaScript, and I enjoy collaborating with others while continuously improving my skills. I’m always eager to take on new challenges and grow as a full-stack developer. Let’s connect and learn together!
 
 - 📫 How to reach me **samarthkapse41@gmail.com**
 
