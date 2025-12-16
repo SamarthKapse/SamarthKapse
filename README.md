@@ -5,8 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about
-As an MCA student with a strong foundation in JavaScript and MERN Stack development, I’m passionate about learning and building software solutions that create real impact. I work with technologies like MongoDB, Express.js, React, Node.js, MySQL, and JavaScript, and I enjoy collaborating with others while continuously improving my skills. I’m always eager to take on new challenges and grow as a full-stack developer. Let’s connect and learn together!
+- As an MCA student with a strong foundation in JavaScript and MERN Stack development, I’m passionate about learning and building software solutions that create real impact. I work with technologies like MongoDB, Express.js, React, Node.js, MySQL, and JavaScript, and I enjoy collaborating with others while continuously improving my skills. I’m always eager to take on new challenges and grow as a full-stack developer. Let’s connect and learn together!
 
 - 📫 How to reach me **samarthkapse41@gmail.com**
 
