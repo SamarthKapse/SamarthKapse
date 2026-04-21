@@ -1,81 +1,18 @@
-<h1 align="center">Hi 👋, I'm Samarth Kapase</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+# 💫 About Me:
+## 🧑‍💻 About Me<br><br>> *"I don't just write code — I build experiences from the ground up."*<br><br>I'm **Samarth Kapase**, a passionate **Full Stack Developer** who lives at the intersection of clean code and real-world impact. I craft end-to-end digital solutions — from pixel-perfect UIs in **React.js** to robust, scalable APIs in **Node.js & Express**, backed by **MongoDB** and **MySQL**.<br><br>I believe great software should solve problems that *actually* matter to people — written clean, built to scale, and designed to last.<br><br>Whether it's architecting a seamless frontend experience or designing efficient backend systems, I bring the same energy to every layer of the stack. I thrive in collaborative environments, love tackling new challenges, and never stop learning.<br><br>- ⚡ Strategic thinker — chess keeps my problem-solving sharp<br>- 🤝 Team player who loves open collaboration<br>- 🎯 Impact-driven — code that makes a difference<br>- 🌱 Always learning, always shipping
 
-<br/>
 
-- 🔭 I'm currently working on **Healthcare Appointment Optimization System**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samarthk41) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samarthkapse/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@samarthkapse41) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Samarth Mallikarjun Kapase) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samarthkapse41@gmail.com) 
 
-- 🌱 I'm currently learning **Full Stack Development**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=SamarthKapse&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=SamarthKapse&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SamarthKapse&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 💬 As an MCA student with a strong foundation in JavaScript and MERN Stack development, I'm passionate about learning and building software solutions that create real impact. I work with technologies like MongoDB, Express.js, React, Node.js, MySQL, and JavaScript, and I enjoy collaborating with others while continuously improving my skills. I'm always eager to take on new challenges and grow as a full-stack developer. Let's connect and learn together!
+---
+[![](https://komarev.com/ghpvc/?username=SamarthKapse&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 📫 How to reach me: **samarthkapse41@gmail.com**
-
-- ⚡ Fun fact: **I think I'm the best chess player.**
-
-<br/>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/samarth-kapase" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samarth kapase" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/samarthk41" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samarthk41" height="30" width="40" />
-  </a>
-</p>
-
-<br/>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<h4 align="left">Frontend</h4>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-</p>
-
-<h4 align="left">Backend & Runtime</h4>
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-</p>
-
-<h4 align="left">Databases</h4>
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-</p>
-
-<h4 align="left">Languages</h4>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-</p>
-
-<h4 align="left">CS Core & AI</h4>
-<p align="left">
-  🖥️ Operating Systems &nbsp;&nbsp;
-  🌐 Computer Networking &nbsp;&nbsp;
-  🗄️ DBMS &nbsp;&nbsp;
-  🤖 Generative AI
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
